@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Auto a radio control",
+      "price": 1000,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 1,
+      "category": "Jugetes"
+    },
+    {
+      "id": 2,
+      "name": "Televisor LG 55´",
+      "price": 2000,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 3,
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 3,
+      "name": "Meza de pino p/4",
+      "price": 300,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 2,
+      "category": "Muebles"
+    },
+    {
+      "id": 4,
+      "name": "Sillas pino",
+      "price": 400,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 4,
+      "category": "Muebles"
+    }
+  ]
